@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=800&color=FF003C&center=true&vCenter=true&width=720&lines=building+self-dev+tools+in+the+deep+grid;from+design+to+silicon+to+kernel+to+backend;currently+studying+Tanenbaum+and+breaking+barriers;looking+for+a+crew+to+run+with;Arch+Linux+%7C+English+%7C+always+learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2400&pause=700&color=FF003C&center=true&vCenter=true&width=760&lines=building+self-dev+tools+in+the+deep+grid;from+design+to+silicon+to+kernel+to+backend;currently+studying+Tanenbaum+and+breaking+barriers;looking+for+a+crew+to+run+with;Arch+Linux+%7C+English+%7C+always+learning" />
 </p>
 
 <p align="center">
@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/YYw2nwlDilDc0cmFn1/giphy.gif" width="520" alt="David Martinez" />
+  <img src="https://media.giphy.com/media/AoiPYyV8TWL3T35HH1/giphy.gif" width="540" alt="hacking the grid" />
 </p>
 
 <br>
 
 <h2 align="center">// PROFILE // CLASSIFIED //</h2>
 
-> *"The future isn't written by the ones who play it safe. It's written by the ones crazy enough to rewrite the code."*
+> *"A happy ending? For folks like us? Wrong city, wrong people."*
 
 I'm a **CS student** running through the stack — fast, reckless, and always reaching higher. Started with **design**, then broke into **frontend** (React, JS, Node.js, HTML/CSS), built **mobile apps with React Native** at hackathons, then went deeper: **hardware**, **operating systems**, wiped Windows, installed **Arch Linux**, and never looked back.
 
@@ -57,10 +57,16 @@ Now I'm building **self-dev tools** — software for learning, growth, and perso
   <img src="https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=ff003c" />
   <img src="https://img.shields.io/badge/React_Native-0a0a0a?style=for-the-badge&logo=react&logoColor=ff003c" />
   <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=ff003c" />
+  <img src="https://img.shields.io/badge/Nginx-0a0a0a?style=for-the-badge&logo=nginx&logoColor=ff003c" />
+  <img src="https://img.shields.io/badge/Kafka-0a0a0a?style=for-the-badge&logo=apachekafka&logoColor=ff003c" />
+  <img src="https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=ff003c" />
+  <img src="https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=ff003c" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-0a0a0a?style=for-the-badge&logo=arch-linux&logoColor=ff003c" />
   <img src="https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=ff003c" />
-  <img src="https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=ff003c" />
-  <img src="https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=ff003c" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=ff003c" />
 </p>
 
 <br>
@@ -68,25 +74,65 @@ Now I'm building **self-dev tools** — software for learning, growth, and perso
 <h2 align="center">// ACTIVE RUNS //</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=ff003c&center=true&vCenter=true&width=650&lines=self-dev+tools+and+learning+systems;backend+architecture+and+APIs;Tanenbaum+OS+concepts;Go+%2F+Python+deep+dive;cybersecurity+fundamentals;high-load+and+distributed+systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=900&color=ff003c&center=true&vCenter=true&width=680&lines=self-dev+tools+and+learning+systems;backend+architecture+and+APIs;Tanenbaum+OS+concepts;Go+%2F+Python+deep+dive;cybersecurity+fundamentals;high-load+and+distributed+systems" />
 </p>
 
 <br>
 
 <h2 align="center">// FEATURED GIGS //</h2>
 
+<table align="center">
+  <tr>
+    <td style="background-color:#0d1117; border:1px solid #ff003c; border-radius:10px; padding:18px; width:320px;">
+      <h3 align="center" style="color:#ff003c; margin-top:0;">🚀 Project Alpha</h3>
+      <p align="center" style="color:#c9d1d9;">Self-dev tool for habit tracking and focused learning sessions.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=ff003c" />
+        <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=node.js&logoColor=ff003c" />
+        <img src="https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=ff003c" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/AS-UR-a">
+          <img src="https://img.shields.io/badge/View%20Repo-ff003c?style=for-the-badge&logo=github&logoColor=0a0a0a" />
+        </a>
+      </p>
+    </td>
+    <td style="width:20px;"></td>
+    <td style="background-color:#0d1117; border:1px solid #ff003c; border-radius:10px; padding:18px; width:320px;">
+      <h3 align="center" style="color:#ff003c; margin-top:0;">⚡ Project Beta</h3>
+      <p align="center" style="color:#c9d1d9;">Backend service for data processing and real-time analytics.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Go-0a0a0a?style=flat-square&logo=go&logoColor=ff003c" />
+        <img src="https://img.shields.io/badge/Kafka-0a0a0a?style=flat-square&logo=apachekafka&logoColor=ff003c" />
+        <img src="https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=ff003c" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/AS-UR-a">
+          <img src="https://img.shields.io/badge/View%20Repo-ff003c?style=for-the-badge&logo=github&logoColor=0a0a0a" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">// BREACH PROTOCOL //</h2>
+
 <p align="center">
-  <em>Pin your best repos. Replace project names below.</em>
+  <img src="https://media.giphy.com/media/JTheOT8fz6vMzQeFmB/giphy.gif" width="540" alt="breach protocol" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/AS-UR-a/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AS-UR-a&repo=project-1&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff003c&icon_color=ff003c&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/AS-UR-a/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AS-UR-a&repo=project-2&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff003c&icon_color=ff003c&text_color=c9d1d9" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=ff003c&center=true&vCenter=true&width=720&lines=cracking+passwords...;bypassing+firewalls...;uploading+quickhacks...;extracting+data...;access+granted" />
 </p>
+
+```
+[SYSTEM] Intrusion attempt detected
+[SYSTEM] ICE layer bypassed
+[SYSTEM] Password matrix solved
+[SYSTEM] Root access acquired
+```
 
 <br>
 
@@ -110,12 +156,12 @@ Now I'm building **self-dev tools** — software for learning, growth, and perso
 <h2 align="center">// METRICS // RAW DATA //</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AS-UR-a&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff003c&icon_color=ff003c&text_color=c9d1d9&count_private=true" height="210" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AS-UR-a&theme=radical&hide_border=true&background=0d1117&ring=ff003c&fire=ff003c&currStreakLabel=ff003c" height="210" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AS-UR-a&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff003c&icon_color=ff003c&text_color=c9d1d9&count_private=true" height="220" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AS-UR-a&theme=radical&hide_border=true&background=0d1117&ring=ff003c&fire=ff003c&currStreakLabel=ff003c" height="220" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AS-UR-a&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff003c&text_color=c9d1d9" height="210" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AS-UR-a&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff003c&text_color=c9d1d9" height="220" />
 </p>
 
 <br>
