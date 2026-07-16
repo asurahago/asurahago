@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AS-UR-a/AS-UR-a/main/as-ura-glitch-banner.svg" alt="AS-UR-a" />
+  <img src="as-ura-glitch-banner.svg" alt="AS-UR-a" />
 </p>
 
 <p align="center">
