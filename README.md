@@ -12,11 +12,11 @@
 
 <br>
 
-<h2 align="center">// ABOUT ME //</h2>
+<h2 align="center">// whoami //</h2>
 
 > *"A happy ending? For folks like us? Wrong city, wrong people."*
 
-Now I'm building **self-dev tools** — software for learning, growth, and personal systems. Backend is where I'm heading, but I still respect every layer below.
+I'm a$ura - cs student from this world, now i bulding **self-dev tools** — software for learning, growth, and personal systems. Backend is where I'm heading, but I still respect every layer below.
 <br>
 
 <h2 align="center">// STACK //</h2>
@@ -71,23 +71,6 @@ Now I'm building **self-dev tools** — software for learning, growth, and perso
 
 <br>
 
-<h2 align="center">// CREW WANTED //</h2>
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/oOi2oZQAvQfksznCKt/giphy.gif" width="520" alt="crew walking" />
-</p>
-
-<p align="center">
-  Looking for a crew to run gigs with. Open to collaborations, side projects,<br>
-  hackathons, open-source, startups — anything that pushes me.
-</p>
-
-<p align="center">
-  <strong>If you're building something in the deep grid, hit me up.</strong>
-</p>
-
-<br>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AS-UR-a&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff003c&icon_color=ff003c&text_color=c9d1d9&count_private=true" height="220" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AS-UR-a&theme=radical&hide_border=true&background=0d1117&ring=ff003c&fire=ff003c&currStreakLabel=ff003c" height="220" />
@@ -99,7 +82,7 @@ Now I'm building **self-dev tools** — software for learning, growth, and perso
 
 <br>
 
-<h2 align="center">// CONNECT //</h2>
+<h2 align="center">// SOCIAL //</h2>
 
 <p align="center">
   <a href="https://t.me/ascalat">
