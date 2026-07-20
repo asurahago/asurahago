@@ -10,29 +10,13 @@
   <img src="https://komarev.com/ghpvc/?username=AS-UR-a&label=PRESENCE&color=ff003c&style=flat-square" alt="profile views" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/AoiPYyV8TWL3T35HH1/giphy.gif" width="540" alt="hacking the grid" />
-</p>
-
 <br>
 
 <h2 align="center">// ABOUT ME //</h2>
 
 > *"A happy ending? For folks like us? Wrong city, wrong people."*
 
-I'm a **CS student** running through the stack — fast, reckless, and always reaching higher. Started with **design**, then broke into **frontend** (React, JS, Node.js, HTML/CSS), built **mobile apps with React Native** at hackathons, then went deeper: **hardware**, **operating systems**.
-
 Now I'm building **self-dev tools** — software for learning, growth, and personal systems. Backend is where I'm heading, but I still respect every layer below.
-
-**Current loadout:**
-- Building self-development and learning tools
-- Backend development
-- Studying **Tanenbaum** and operating systems
-
-**Languages:** English, Russian
-
-**Mindset:** my programming level isn't good — but I'm grinding. Looking for new people, connections, and projects to run with. If you're building something cool, I want in.
-
 <br>
 
 <h2 align="center">// STACK //</h2>
