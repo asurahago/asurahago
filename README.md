@@ -1,22 +1,6 @@
 <p align="center">
   <img src="as-ura-glitch-banner.svg" alt="AS-UR-a" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2400&pause=700&color=FF003C&center=true&vCenter=true&width=760&lines=building+self-dev+tools+in+the+deep+grid;from+design+to+silicon+to+kernel+to+backend;currently+studying+Tanenbaum+and+breaking+barriers;looking+for+a+crew+to+run+with;Arch+Linux+%7C+English+%7C+always+learning" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AS-UR-a&label=PRESENCE&color=ff003c&style=flat-square" alt="profile views" />
-</p>
-
-<br>
-
-<h2 align="center">// whoami //</h2>
-
-> *"A happy ending? For folks like us? Wrong city, wrong people."*
-
-I'm a$ura - cs student from this world, now i bulding **self-dev tools** — software for learning, growth, and personal systems. Backend is where I'm heading, but I still respect every layer below.
 <br>
 
 <h2 align="center">// STACK //</h2>
@@ -60,10 +44,6 @@ I'm a$ura - cs student from this world, now i bulding **self-dev tools** — sof
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JTheOT8fz6vMzQeFmB/giphy.gif" width="540" alt="breach protocol" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=ff003c&center=true&vCenter=true&width=720&lines=cracking+passwords...;bypassing+firewalls...;uploading+quickhacks...;extracting+data...;access+granted" />
