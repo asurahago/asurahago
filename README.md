@@ -10,22 +10,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=ff003c" />
-  <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=ff003c" />
   <img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=ff003c" />
-  <img src="https://img.shields.io/badge/Go-0a0a0a?style=for-the-badge&logo=go&logoColor=ff003c" />
   <img src="https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=ff003c" />
-  <img src="https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=ff003c" />
-  <img src="https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=ff003c" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=ff003c" />
-  <img src="https://img.shields.io/badge/React_Native-0a0a0a?style=for-the-badge&logo=react&logoColor=ff003c" />
-  <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=ff003c" />
-  <img src="https://img.shields.io/badge/Nginx-0a0a0a?style=for-the-badge&logo=nginx&logoColor=ff003c" />
-  <img src="https://img.shields.io/badge/Kafka-0a0a0a?style=for-the-badge&logo=apachekafka&logoColor=ff003c" />
-  <img src="https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=ff003c" />
   <img src="https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=ff003c" />
 </p>
 
