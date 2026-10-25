@@ -13,10 +13,7 @@
 
 <p align="center">
   <i>
-    self-taught. learning by building — currently a blockchain from scratch in C++20,<br>
-    to actually understand consensus, cryptography and state under the hood.<br>
-    arch linux daily driver, terminal-first workflow, prefer source over abstractions.<br>
-    reading tanenbaum, writing systems code, breaking things on purpose to learn how they work.
+    not a geek, just guy from village. vVv
   </i>
 </p>
 
